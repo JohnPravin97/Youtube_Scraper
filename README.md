@@ -1,2 +1,2 @@
 # Youtube_Scraper
-Scraper any video from YouTube and store the link using python
+Scrape any video from YouTube and store the link in excel or HDF5 format using python
